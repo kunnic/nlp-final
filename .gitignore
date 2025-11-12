@@ -214,3 +214,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# CSV
+*.csv
+
+# /phobert_toxic_result folder
+/phobert_toxic_result/
+new.ipynb
