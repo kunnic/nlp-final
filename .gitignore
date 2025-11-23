@@ -220,4 +220,5 @@ __marimo__/
 
 # /phobert_toxic_result folder
 /phobert_toxic_result/
+/phobert_toxic_result_10k/
 new.ipynb
